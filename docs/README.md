@@ -4,7 +4,7 @@ externalLinkIcon: false
 config:
   -
     type: banner
-    banner: https://sm.ms/image/mrja6dzN3ekhqCu
+    banner: https://s2.loli.net/2025/04/22/mrja6dzN3ekhqCu.jpg
     bannerMask:
       light: 0.1
       dark: 0.3
