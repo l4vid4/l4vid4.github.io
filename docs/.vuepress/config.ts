@@ -1,7 +1,6 @@
 import { viteBundler } from '@vuepress/bundler-vite'
 import { defineUserConfig } from 'vuepress'
 import { plumeTheme } from 'vuepress-theme-plume'
-import './styles/index.css'
 
 export default defineUserConfig({
   base: '/',
