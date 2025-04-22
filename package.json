@@ -1,9 +1,9 @@
 {
-  "name": "hebut-a-219",
+  "name": "lavida",
   "type": "module",
   "version": "1.0.0",
-  "description": "河北工业大学智慧教育与工业创新实验室门户网站",
-  "author": "Lang <914551901@qq.com>",
+  "description": "个人门户网站",
+  "author": "Lang <1789729400@qq.com>",
   "license": "MIT",
   "engines": {
     "node": "^18.19.0 || ^20.6.0 || >=22.0.0"
