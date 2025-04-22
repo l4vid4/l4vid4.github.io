@@ -5,8 +5,8 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
-  title: 'HebutA219',
-  description: '河北工业大学智慧教育与工业创新实验室门户网站',
+  title: 'Lavida',
+  description: '郎逸个人门户网站',
 
   head: [
     // 配置站点图标

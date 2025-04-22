@@ -38,8 +38,8 @@ export default defineThemeConfig({
    */
   profile: {
     avatar: 'https://theme-plume.vuejs.press/plume.png',
-    name: 'HebutA219',
-    description: '河北工业大学智慧教育与工业创新实验室门户网站',
+    name: 'Lavida',
+    description: '郎逸个人门户网站',
     // circle: true,
     // location: '',
     // organization: '',
