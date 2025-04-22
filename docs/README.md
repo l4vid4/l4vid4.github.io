@@ -4,7 +4,7 @@ externalLinkIcon: false
 config:
   -
     type: banner
-    banner: https://img2022.cnblogs.com/blog/2616186/202207/2616186-20220706180459114-1260355598.png
+    banner: https://sm.ms/image/mrja6dzN3ekhqCu
     bannerMask:
       light: 0.1
       dark: 0.3
