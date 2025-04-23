@@ -1,20 +1,11 @@
-@font-face {
-  font-family: 'Pacifico';
-  src: url('/fonts/Pacifico.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-}
-@font-face {
-  font-family: 'MaShanZheng';
-  src: url('/fonts/MaShanZheng.ttf') format('truetype');
-  font-weight: 400;
-  font-style: normal;
-}
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Ma+Shan+Zheng&display=swap');
 
 /* 应用于首页 Banner 的字体样式 */
 .hero-name,
 .hero-text {
-  font-family: 'MaShanZheng', sans-serif;
+  font-family: 'Ma Shan Zheng', sans-serif;
   font-weight: 400 !important;
 }
 
