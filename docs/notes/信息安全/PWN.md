@@ -249,8 +249,6 @@ io.interactive()
   >    - `rdi`：应该是一个指针，指向一个以null结尾的字符串数组，数组中的每个字符串是新程序的命令行参数。通常这个数组的第一个元素是被执行程序的名称。
   >    - `rsi`：同样是一个指针，指向一个以null结尾的字符串数组，数组中的每个字符串是新程序的环境变量。
 
-![image-20240623105219487](C:/Users/HP/AppData/Roaming/Typora/typora-user-images/image-20240623105219487.png)
-
 - gadget
 
   > ```shell
@@ -304,7 +302,6 @@ io.interactive()
    - 在第一次函数调用时，PLT会触发符号解析，动态链接器会找到实际的地址并写入GOT条目中。
    - 后续的调用会直接使用GOT中记录的地址，避免了重新解析符号。
 
-![image-20240623162557094](C:/Users/HP/AppData/Roaming/Typora/typora-user-images/image-20240623162557094.png)
 
 ## ret2libc
 
