@@ -1,9 +1,6 @@
 ---
 title: 记一次用Python爬取超星学习通课后小测验并写入Word文档（完整思路）
-date: 2020-05-25 21:06:12
-categories:
-	- 爬虫笔记
-	- Python
+date: 2020-05-25
 tags:
 	- Python
 	- 爬虫

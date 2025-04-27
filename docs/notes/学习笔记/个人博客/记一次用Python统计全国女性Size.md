@@ -1,9 +1,6 @@
 ---
 title: 记一次用Python统计全国女性Size
-date: 2020-03-27 10:00:18
-categories:
-	- 爬虫笔记
-	- Python
+date: 2020-03-27
 tags:
 	- Python
 	- 爬虫

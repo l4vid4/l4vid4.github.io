@@ -1,9 +1,6 @@
 ---
 title: 记一次用Python挑战SQL注入
-date: 2020-04-13 18:07:52
-categories:
-	- 渗透测试
-	- Python
+date: 2020-04-13
 tags:
 	- Python
 	- 渗透测试

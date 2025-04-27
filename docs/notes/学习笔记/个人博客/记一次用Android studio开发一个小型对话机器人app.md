@@ -1,9 +1,6 @@
 ---
 title: 记一次用Android studio开发一个小型对话机器人app
-date: 2020-04-09 11:58:05
-categories:
-	- 项目笔记
-	- Android
+date: 2020-04-09
 tags: 
 	- 项目笔记
 	- Android

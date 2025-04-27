@@ -1,9 +1,6 @@
 ---
 title: 一次Pandas踩坑记录（为什么Dataframe创建时指定的列名和列不对应）
-date: 2020-07-24 16:46:06
-categories:
-	- 随手记
-	- Python
+date: 2020-07-24
 tags:
 	- Python
 ---
