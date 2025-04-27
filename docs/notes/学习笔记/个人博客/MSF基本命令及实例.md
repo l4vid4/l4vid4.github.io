@@ -1,6 +1,6 @@
 ---
 title: MSF基本命令及实例
-date: 2020-07-07
+createTime: 2020/07/07
 tags: 
   - 学习笔记
   - MSF

@@ -1,6 +1,6 @@
 ---
 title: Kotlin基础语法（下）
-date: 2020-06-23
+createTime: 2020/06/23
 tags: 
   - 学习笔记
   - Kotlin
