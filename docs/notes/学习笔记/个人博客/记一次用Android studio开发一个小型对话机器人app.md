@@ -1,7 +1,12 @@
 ---
 title: 记一次用Android studio开发一个小型对话机器人app
 date: 2020-04-09 11:58:05
-tags:
+categories:
+	- 项目笔记
+	- Android
+tags: 
+	- 项目笔记
+	- Android
 ---
 ## 前言
 - 偶然在网上看到一个免费机器人接口，所以生此想法，接口地址：http://api.qingyunke.com/，Android开发比爬虫要繁琐得多，所以本文我将细说接口的调用方法，读者可根据思路去网上找一些免费接口拿来玩，其他代码一带而过，详细源码见文末。

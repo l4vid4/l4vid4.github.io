@@ -1,7 +1,11 @@
 ---
 title: 一次Pandas踩坑记录（为什么Dataframe创建时指定的列名和列不对应）
 date: 2020-07-24 16:46:06
+categories:
+	- 随手记
+	- Python
 tags:
+	- Python
 ---
 - 最近做课设的时候遇到一个特别头疼的问题，在将ndarray转换为dataframe时，指定的列名就是对应不起来（如下图），四处询问，查看pandas源码均无果。
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200724163815215.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDM3MTg0Mg==,size_16,color_FFFFFF,t_70)

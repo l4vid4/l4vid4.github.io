@@ -1,7 +1,12 @@
 ---
 title: 记一次用Python统计全国女性Size
 date: 2020-03-27 10:00:18
+categories:
+	- 爬虫笔记
+	- Python
 tags:
+	- Python
+	- 爬虫
 ---
 ## 前言
  - 最近闲来无事，又正好在学习Python数据分析统计，于是便萌生一种想法：统计京东购买记录，分析全国女性平均Size

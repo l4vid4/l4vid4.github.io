@@ -1,7 +1,9 @@
 ---
 title: Kotlin基础语法（上）
-date: 2020-06-02 20:24:37
-tags:
+date: 2020-06-02
+tags: 
+	- 学习笔记
+	- Kotlin
 ---
 
 # [Kotlin基础语法（下）](https://lang186.blog.csdn.net/article/details/106930532)

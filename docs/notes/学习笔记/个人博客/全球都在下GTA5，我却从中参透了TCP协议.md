@@ -1,7 +1,10 @@
 ---
 title: 全球都在下GTA5，我却从中参透了TCP协议
 date: 2020-05-15 14:57:15
+categories:
+	- 学习笔记
 tags:
+	- 计算机网络
 ---
 # 前言
 - 首先，不得不说，EPIC是真的大方，直接将GTAV免费送，没有领取的小伙伴先[点这里](https://www.epicgames.com/store/zh-CN/)白嫖一下，然后开始我们今天的正事。
