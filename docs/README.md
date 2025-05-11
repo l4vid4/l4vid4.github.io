@@ -11,7 +11,7 @@ config:
     hero:
       name: 郎逸
       tagline: Lavida
-      text: 我将融入剧烈争斗的大人世界，要在那边孤军奋战，必须变得比任何人都坚不可摧。
+      text: 不张嘴的人永远吃不到饭。
       actions:
         -
           text: 我的博客
