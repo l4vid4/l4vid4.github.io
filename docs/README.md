@@ -11,7 +11,7 @@ config:
     hero:
       name: 郎逸
       tagline: Lavida
-      text: 不张嘴的人永远吃不到饭。
+      text: 再长的路一步步也能走完，再短的路不迈开双脚也无法到达。
       actions:
         -
           text: 我的博客
