@@ -1,6 +1,4 @@
-@[TOC](目录)
-
-
+[TOC]
 
 # JVM
 
@@ -449,6 +447,22 @@ PhantomReference<Object> phantomRef = new PhantomReference<>(new Object(), refer
 | `jcmd`       | 综合工具，可代替上述大部分命令      | `jcmd <pid> help`                     |
 | **VisualVM** | 图形界面分析 GC、堆、线程、方法耗时 | 需要安装，支持插件                    |
 | **JConsole** | 可视化监控内存、线程、类、MBean 等  | `jconsole` 启动                       |
+
+#### Arthas
+
+- 下载地址：https://arthas.aliyun.com/arthas-boot.jar
+
+**常用命令**
+
+- dashboard，查看面板
+- thread 8，定位线程问题
+- thread -b，查看阻塞线程原因
+- jad com.packge.name 反编译包
+- ognl 命令可以查看线上系统变量的值，甚至可以修改变量的值
+
+### 反汇编
+
+`javap -c main.class > out.txt`反汇编class文件
 
 ### Java内存泄漏的排查思路
 
