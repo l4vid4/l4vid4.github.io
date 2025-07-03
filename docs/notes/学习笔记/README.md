@@ -6,8 +6,6 @@ permalink: /studyNotes/
 # 学习笔记目录
 - [Docker](./Docker/docker.md)
 - [Hadoop](./Hadoop/Hadoop.md)
-- [Java](./Java/Java笔记.md)
-- [JVM](./JVM/jvm.md)
 - [信息安全](./信息安全/CTF.md)
 - [八股文](./八股文/Java.md)
 - [力扣](./力扣/笔记.md)
