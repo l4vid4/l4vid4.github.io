@@ -45,7 +45,7 @@
 | ParameterHandler | 负责对用户传递的参数转换成 JDBC Statement 所需要的参数       |
 | ResultSetHandler | 负责将 JDBC 返回的 ResultSet 结果集对象转换成 List 类型的集合 |
 | TypeHandler      | 负责 java 数据类型和 jdbc 数据类型之间的映射和转换           |
-| MappedStatement  | 维护了一条 <select \| update \| delete \| insert> 节点的封装 |
+| MappedStatement  | 维护了一条 \<select \| update \| delete \| insert\> 节点的封装 |
 | SqlSource        | 负责根据用户传递的 parameterObject，动态地生成 SQL 语句，将信息封装到 BoundSql 对象中，并返回 |
 | BoundSql         | 表示动态生成的 SQL 语句以及相应的参数信息                    |
 
@@ -57,7 +57,7 @@
 
 **场景**
 
-- 你查询一个对象 A，A 里有一个关联对象 B，或者一个 List<B> 集合。
+- 你查询一个对象 A，A 里有一个关联对象 B，或者一个 List\<B\> 集合。
 - 你只想在 **访问 B 时再去查询 B**，而不是一开始就联表查出来。
 
 #### 开启方式
@@ -87,7 +87,7 @@
 
 - 使用了CGLIB创建目标对象的代理对象
 - 当调用目标方法user.getOrderList()时，进入拦截器invoke方法，发现user.getOrderList()是null值，执行sql查询order列表
-- 把order查询上来，然后调用user.setOrderList(List<Order> orderList)，接着完成user.getOrderList()方法的调用
+- 把order查询上来，然后调用user.setOrderList(List\<Order\> orderList)，接着完成user.getOrderList()方法的调用
 
 ![image-20250610163234290](./assets/image-20250610163234290.png)
 

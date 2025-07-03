@@ -182,7 +182,7 @@ Spring支持编程式事务管理和声明式事务管理两种方式
 
 #### BeanDefinition
 
-> Spring容器在进行实例化时，会将xml配置的\\<bean\\>的信息封装成一个BeanDefinition对象，Spring根据BeanDefinition来创建Bean对象，里面有很多的属性来描述Bean。
+> Spring容器在进行实例化时，会将xml配置的\<bean\>的信息封装成一个BeanDefinition对象，Spring根据BeanDefinition来创建Bean对象，里面有很多的属性来描述Bean。
 
 #### Bean生命周期
 
@@ -361,23 +361,23 @@ org.springframework.boot.autoconfigure.web.servlet.DispatcherServletAutoConfigur
 1. 创建Maven项目，添加Spring Boot和starter parent和一些必要依赖
 
    ```xml
-   \<parent\>
-       \<groupId\>org.springframework.boot\</groupId\>
-       \<artifactId\>spring-boot-starter-parent\</artifactId\>
-       \<version\>2.7.0\</version\>
-   \</parent\>
+   <parent>
+       <groupId>org.springframework.boot</groupId>
+       <artifactId>spring-boot-starter-parent</artifactId>
+       <version>2.7.0</version>
+   </parent>
    
-   \<dependencies\>
-       \<dependency\>
-           \<groupId\>org.springframework.boot\</groupId\>
-           \<artifactId\>spring-boot-starter-web\</artifactId\>
-       \</dependency\>
+   <dependencies>
+       <dependency>
+           <groupId>org.springframework.boot</groupId>
+           <artifactId>spring-boot-starter-web</artifactId>
+       </dependency>
        
-       \<dependency\>
-           \<groupId\>org.springframework.boot\</groupId\>
-           \<artifactId\>spring-boot-autoconfigure\</artifactId\>
-       \</dependency\>
-   \</dependencies\>
+       <dependency>
+           <groupId>org.springframework.boot</groupId>
+           <artifactId>spring-boot-autoconfigure</artifactId>
+       </dependency>
+   </dependencies>
    ```
 
 2. 编写自动配置类和属性类，属性类绑定配置文件中的属性。
