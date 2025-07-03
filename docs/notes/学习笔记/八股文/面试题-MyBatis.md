@@ -49,7 +49,7 @@
 | SqlSource        | 负责根据用户传递的 parameterObject，动态地生成 SQL 语句，将信息封装到 BoundSql 对象中，并返回 |
 | BoundSql         | 表示动态生成的 SQL 语句以及相应的参数信息                    |
 
-![v2-4c84ea722e37d5136c7153a119948bfa_1440w](./C:/Users/Lang/AppData/Local/Temp/v2-4c84ea722e37d5136c7153a119948bfa_1440w.png)
+![点击查看图片来源](./assets/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNDAxMTU2,size_16,color_FFFFFF,t_70.png)
 
 ### MyBatis是否支持延迟加载
 
